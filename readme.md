@@ -37,7 +37,7 @@ actualment_estudiant: ["Programació", "Git i GitHub", "Bases de dades", "Sistem
 | Període | Lloc | Descripció |
 |---|---|---|
 | Actualment | Escola Pia Santa Anna - Mataró | **DAM** - Cicle Superior de Desenvolupament d'Aplicacions Multiplataforma |
-| AAAA - AAAA | La Salle Premià | **SMX** - Cicle Mitjà de Sistemes Microinformàtics i Xarxes |
+| 2024-2026 | La Salle Premià | **SMX** - Cicle Mitjà de Sistemes Microinformàtics i Xarxes |
 
 ## 🛠 Tech skills
 
